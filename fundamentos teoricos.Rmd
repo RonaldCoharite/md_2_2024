@@ -11,4 +11,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Fuente de datos
 
-## Cesnso
+## Censo
+
+## Encuestas
+
+  - Encuestas probabilisticas
+  - Encuestas no probabilisticas
+
+## Registros administrativos
+
+Son registros que se crean con un objetivo administrativo no estadistico dentro de una institucion, este puede ser fisico o digital.
+
+La cobertura depende del proceso
+
+  - Ventajas: Una vez implementada, ofrece informacion actuallzizada (digital)
+  - Desventajas: Requiere un fuerte pre-procesamiento, no cubre toda la poblacion objetivo, no es flexible tematicamente ()
